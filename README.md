@@ -1,12 +1,8 @@
 # SurisCode
-Challenge
-
-Aquí tienes un archivo README.md completo para tu proyecto:
-
-Sistema de Compras de Artículos
+Challenge: Sistema de Compras de Artículos
 Esta aplicación web permite la gestión de pedidos de artículos. A través de una interfaz sencilla, el usuario puede seleccionar productos, elegir un vendedor y generar pedidos. Los artículos se obtienen del backend y los vendedores se obtienen de una API externa.
 
-Tecnologías utilizadas
+#Tecnologías utilizadas
 Frontend: React (JavaScript)
 Backend: .NET Core (C#)
 Requisitos Previos
@@ -58,7 +54,7 @@ Copiar código
 npm start
 Abre tu navegador y visita http://localhost:3000 para ver la aplicación en funcionamiento.
 
-Funcionalidades Implementadas
+#Funcionalidades Implementadas
 Frontend
 Listado de Artículos: Muestra una lista de artículos recuperada desde el backend.
 Desplegable de Vendedores: Muestra un listado de vendedores recuperado de una API externa.
